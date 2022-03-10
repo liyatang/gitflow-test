@@ -114,6 +114,6 @@ if (OpenPlatformConnector.isEnabled()) {
   OpenPlatformConnector.launch();
 }
 
-console.log('hello app')
+console.log('hello my app')
 
 ReactDom.render(<Root />, document.querySelector('.container'));
